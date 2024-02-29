@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shaneeb</h1>
 <h3 align="center">A passionate NLP Developer</h3>
 
-- 🌱 I’m currently learning **LLMs,GPT,Llama2,LLMOPS**
+- 💻 I'm Currently a Machine Learning Engineer
+- 
+- 🌱 Working on **LLMs,Fine-Tuning,RAG,Open-Source LLMs,LLMOPS**
 
-- 💬 Ask me about **GPT,LLMs,Chatbot**
+- 💬 Ask me about **ML,LLMs,Chatbot,Open-Source LLMs,FineTuning**
 
 - 📫 How to reach me **shaneebkottakkal@gmail.com**
 
