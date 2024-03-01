@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shaneeb</h1>
-<h3 align="center">A passionate NLP Developer</h3>
+<h3 align="center">A Passionate NLP Developer</h3>
 
 - 💻 I'm Currently a Machine Learning Engineer
   
